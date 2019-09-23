@@ -1,0 +1,83 @@
+#ylapalkki {
+
+}
+
+#valipalkki {
+    padding-top: 1%;
+    background-color: white;
+}
+
+#streamiBackground {
+    background-color: rgb(0, 182, 240);
+}
+
+#streamibackgroundinbackground {
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+/*-------navigation bar---------*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    top: 0;
+}
+
+li {
+    display: inline-block;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.linkkielementti {
+    float: right;
+}
+
+#espooliikkuu {
+    width: 30%;
+}
+/*-------navigation bar---------*/
+
+.columni {
+    background-color: white;
+    width: 30%;
+    padding: 1%;
+    border-style: dotted;
+    border-color: pink;
+    border-radius: 5%;
+}
+
+.rivit {
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+
+.otsikko {
+    border-bottom: 6px solid pink;
+    background-color: lightgrey;
+}
+
+#loppuinfo {
+    height: 7vw;
+}
+
+#loppuinfonvalipalkki {
+    height: 1vw;
+}
+
+.alapalkinteksti {
+    color: grey;
+}
